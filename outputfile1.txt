@@ -1,0 +1,132 @@
+ :    51499times. 
+Huffman code of  : 111
+!:       36times. 
+Huffman code of !: 000001000010
+(:       18times. 
+Huffman code of (: 01101010111011
+):       18times. 
+Huffman code of ): 01101010111010
+,:     4142times. 
+Huffman code of ,: 011011
+-:       99times. 
+Huffman code of -: 00000100101
+.:     1740times. 
+Huffman code of .: 0000011
+/:        4times. 
+Huffman code of /: 000001000011001
+1:        4times. 
+Huffman code of 1: 000001000011000
+2:        3times. 
+Huffman code of 2: 0000010000110101
+3:        1times. 
+Huffman code of 3: 00000100001101000
+::      142times. 
+Huffman code of :: 10110101010
+;:      750times. 
+Huffman code of ;: 00000101
+?:      712times. 
+Huffman code of ?: 101101111
+A:      518times. 
+Huffman code of A: 101101000
+B:      164times. 
+Huffman code of B: 0000010001
+C:      149times. 
+Huffman code of C: 10110101011
+D:       28times. 
+Huffman code of D: 0110101000101
+E:       30times. 
+Huffman code of E: 0110101011100
+F:       56times. 
+Huffman code of F: 011010100011
+G:       87times. 
+Huffman code of G: 00000100100
+H:      126times. 
+Huffman code of H: 01101010110
+I:      975times. 
+Huffman code of I: 01101011
+J:        6times. 
+Huffman code of J: 000001000011011
+K:        6times. 
+Huffman code of K: 000001000011110
+L:       50times. 
+Huffman code of L: 011010100000
+M:       51times. 
+Huffman code of M: 011010100001
+N:      126times. 
+Huffman code of N: 01101010101
+O:       74times. 
+Huffman code of O: 011010101111
+P:       77times. 
+Huffman code of P: 00000100000
+Q:       15times. 
+Huffman code of Q: 01101010001001
+R:        6times. 
+Huffman code of R: 000001000011111
+S:      305times. 
+Huffman code of S: 1011010111
+T:      531times. 
+Huffman code of T: 101101001
+U:       11times. 
+Huffman code of U: 00000100001110
+V:       62times. 
+Huffman code of V: 011010101001
+W:      210times. 
+Huffman code of W: 0000010011
+X:        1times. 
+Huffman code of X: 00000100001101001
+Y:      236times. 
+Huffman code of Y: 0110101001
+Z:       13times. 
+Huffman code of Z: 01101010001000
+a:    17355times. 
+Huffman code of a: 1010
+b:     3166times. 
+Huffman code of b: 000000
+c:     5081times. 
+Huffman code of c: 110100
+d:     8876times. 
+Huffman code of d: 10011
+e:    28204times. 
+Huffman code of e: 001
+f:     4816times. 
+Huffman code of f: 101110
+g:     3731times. 
+Huffman code of g: 000011
+h:    14488times. 
+Huffman code of h: 0100
+i:    15037times. 
+Huffman code of i: 0101
+j:      653times. 
+Huffman code of j: 101101110
+k:     1207times. 
+Huffman code of k: 10110110
+l:     8117times. 
+Huffman code of l: 10010
+m:     5198times. 
+Huffman code of m: 110101
+n:    15529times. 
+Huffman code of n: 0111
+o:    16738times. 
+Huffman code of o: 1000
+p:     3286times. 
+Huffman code of p: 000010
+q:      295times. 
+Huffman code of q: 1011010110
+r:    12612times. 
+Huffman code of r: 11011
+s:    14379times. 
+Huffman code of s: 0001
+t:    20586times. 
+Huffman code of t: 1100
+u:     7270times. 
+Huffman code of u: 01100
+v:     1924times. 
+Huffman code of v: 0110100
+w:     4925times. 
+Huffman code of w: 101111
+x:      284times. 
+Huffman code of x: 1011010100
+y:     4609times. 
+Huffman code of y: 101100
+z:       57times. 
+Huffman code of z: 011010101000
